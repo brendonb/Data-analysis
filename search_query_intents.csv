@@ -1,0 +1,101 @@
+ID,Query,Country,SearchEngine,Device,Category,Impressions,Clicks,TimeStamp
+1,weather today,United States,Google,Android,Health,328,285,7/12/2025 9:53
+2,news headlines today,South Africa,Bing,IOS,Tech,524,313,7/16/2025 5:27
+3,how to make money online,England,DuckDuckGo,Windows,Food,488,31,7/12/2025 14:17
+4,how to lose weight fast,France,Yahoo,Linux,Finance,337,231,7/7/2025 11:48
+5,lotto results,Germany,Ask.com,Linux,Entertainment,956,152,7/7/2025 3:57
+6,restaurants near me,India,Brave Search,Windows,Accomadation,637,502,7/6/2025 6:59
+7,what is my IP address,China,Yahoo,IOS,Travel,615,187,7/18/2025 7:12
+8,how to learn python,Australia,Google,Linux,Accomadation,866,95,7/19/2025 15:35
+9,best movies to watch,Israel,Bing,IOS,Accomadation,745,196,7/6/2025 2:39
+10,covid symptoms,Egypt,DuckDuckGo,Windows,Tech,180,72,7/4/2025 9:26
+11,accomadtion to rent or buy,Argentina,Yahoo,IOS,Travel,824,685,7/7/2025 13:18
+12,sports,Mosambique,Yahoo,Windows,Travel,566,231,7/15/2025 2:40
+13,online games,Dubai,Yahoo,IOS,Health,153,41,7/22/2025 15:27
+14,accomadtion to rent or buy,Uganda,Yahoo,Windows,Travel,163,13,7/13/2025 13:42
+15,how to lose weight fast,Brazil,Ask.com,IOS,Finance,652,381,7/6/2025 1:21
+16,news headlines today,Brazil,DuckDuckGo,Android,Accomadation,821,790,7/2/2025 10:44
+17,how to learn python,Dubai,Bing,Windows,Finance,477,389,7/22/2025 15:42
+18,how to lose weight fast,India,Ask.com,Android,Travel,123,67,7/25/2025 20:39
+19,weather today,Germany,DuckDuckGo,Linux,Entertainment,492,192,7/20/2025 6:28
+20,lotto results,Israel,Ask.com,Linux,Travel,635,357,7/18/2025 2:40
+21,online games,Argentina,Ask.com,IOS,Finance,455,122,7/5/2025 7:42
+22,restaurants near me,Australia,DuckDuckGo,Linux,Food,919,408,7/12/2025 2:59
+23,sports,South Africa,Ask.com,Android,Health,652,181,7/10/2025 0:58
+24,how to learn python,United States,Bing,Linux,Finance,421,124,7/2/2025 23:55
+25,covid symptoms,Israel,Google,IOS,Tech,603,573,7/30/2025 19:21
+26,how to make money online,South Africa,Ask.com,Android,Travel,534,82,7/23/2025 22:18
+27,best movies to watch,Dubai,Bing,Android,Health,756,385,7/23/2025 17:41
+28,what is my IP address,Brazil,Bing,IOS,Food,736,233,7/21/2025 2:19
+29,online games,Israel,DuckDuckGo,Linux,Accomadation,749,226,7/23/2025 9:33
+30,restaurants near me,United States,Yahoo,Windows,Travel,959,180,7/5/2025 14:05
+31,what is my IP address,Dubai,Ask.com,IOS,Entertainment,582,343,7/21/2025 17:56
+32,news headlines today,Argentina,Yahoo,Android,Food,595,340,7/19/2025 3:27
+33,how to lose weight fast,Uganda,Ask.com,Windows,Travel,492,441,7/13/2025 17:39
+34,news headlines today,Germany,Bing,IOS,Tech,859,678,7/11/2025 21:47
+35,lotto results,China,Google,Linux,Food,300,12,7/5/2025 5:44
+36,accomadtion to rent or buy,China,Yahoo,Linux,Entertainment,917,603,7/28/2025 14:30
+37,news headlines today,Israel,Google,IOS,Entertainment,550,240,7/24/2025 7:47
+38,sports,Uganda,Yahoo,Android,Health,524,218,7/10/2025 23:12
+39,sports,Israel,Google,Windows,Finance,437,313,7/4/2025 9:13
+40,covid symptoms,Mosambique,DuckDuckGo,Windows,Health,667,33,7/21/2025 2:24
+41,sports,South Africa,DuckDuckGo,Windows,Entertainment,917,325,7/22/2025 19:15
+42,best movies to watch,Brazil,Yahoo,Android,Accomadation,954,596,7/12/2025 16:09
+43,weather today,England,Google,Android,Health,583,1,7/2/2025 13:13
+44,how to learn python,Uganda,Yahoo,Android,Health,783,641,7/16/2025 1:54
+45,best movies to watch,Australia,Google,Linux,Finance,450,331,7/8/2025 20:58
+46,news headlines today,Mosambique,Ask.com,Android,Health,165,61,7/16/2025 20:50
+47,lotto results,Dubai,Google,Android,Accomadation,344,80,7/23/2025 9:34
+48,news headlines today,Germany,Ask.com,Windows,Tech,724,665,7/29/2025 1:10
+49,how to learn python,Argentina,Ask.com,Linux,Travel,918,502,7/24/2025 0:30
+50,sports,Mosambique,Ask.com,Linux,Accomadation,585,138,7/16/2025 19:35
+51,lotto results,China,DuckDuckGo,Linux,Entertainment,426,91,7/22/2025 18:14
+52,covid symptoms,Germany,Bing,Android,Tech,224,216,7/3/2025 23:16
+53,best movies to watch,Dubai,Ask.com,Windows,Health,189,180,7/28/2025 20:16
+54,online games,Germany,DuckDuckGo,Windows,Travel,897,655,7/7/2025 4:22
+55,covid symptoms,China,Google,Windows,Tech,662,642,7/27/2025 21:28
+56,accomadtion to rent or buy,France,DuckDuckGo,Windows,Entertainment,478,366,7/27/2025 18:00
+57,how to lose weight fast,Germany,Bing,Android,Travel,485,7,7/30/2025 16:07
+58,online games,Australia,Google,IOS,Entertainment,562,205,7/3/2025 3:28
+59,best movies to watch,Brazil,Bing,Linux,Travel,104,71,7/23/2025 7:23
+60,online games,Egypt,Google,IOS,Travel,551,240,7/15/2025 1:40
+61,covid symptoms,India,Yahoo,Android,Entertainment,176,101,7/30/2025 4:34
+62,accomadtion to rent or buy,Dubai,Bing,Android,Finance,566,477,7/17/2025 17:41
+63,weather today,South Africa,Bing,Windows,Accomadation,508,455,7/11/2025 18:10
+64,restaurants near me,Mosambique,Bing,IOS,Entertainment,604,107,7/22/2025 7:00
+65,how to learn python,South Africa,Google,Linux,Food,984,682,7/7/2025 15:31
+66,how to learn python,India,Google,IOS,Accomadation,116,109,7/25/2025 17:05
+67,online games,England,Ask.com,IOS,Food,887,349,7/5/2025 8:37
+68,restaurants near me,Israel,Bing,Windows,Finance,404,88,7/22/2025 19:55
+69,news headlines today,Mosambique,Ask.com,Android,Health,395,54,7/5/2025 16:24
+70,news headlines today,Uganda,Ask.com,Android,Entertainment,398,142,7/26/2025 6:05
+71,what is my IP address,United States,DuckDuckGo,Android,Finance,856,148,7/26/2025 3:25
+72,how to learn python,Uganda,Ask.com,Android,Health,785,350,7/12/2025 10:25
+73,how to learn python,Dubai,Ask.com,IOS,Entertainment,844,327,7/8/2025 3:44
+74,news headlines today,Mosambique,Bing,IOS,Health,876,220,7/4/2025 13:31
+75,what is my IP address,Egypt,DuckDuckGo,Linux,Finance,482,156,7/13/2025 11:14
+76,how to learn python,Egypt,Bing,IOS,Accomadation,873,566,7/3/2025 8:14
+77,how to lose weight fast,Dubai,DuckDuckGo,Android,Food,274,31,7/23/2025 19:44
+78,best movies to watch,England,Yahoo,Windows,Accomadation,984,792,7/28/2025 4:47
+79,how to learn python,South Africa,Yahoo,Windows,Tech,639,159,7/1/2025 21:23
+80,weather today,South Africa,DuckDuckGo,Android,Food,947,18,7/9/2025 12:16
+81,best movies to watch,Australia,Google,Linux,Food,935,679,7/11/2025 20:04
+82,lotto results,Dubai,Bing,Android,Health,941,751,7/5/2025 15:45
+83,what is my IP address,Australia,Ask.com,Windows,Health,915,729,7/28/2025 3:15
+84,news headlines today,Israel,Yahoo,IOS,Finance,894,326,7/7/2025 13:43
+85,restaurants near me,Brazil,Yahoo,Windows,Finance,291,255,7/30/2025 8:32
+86,how to learn python,China,Google,IOS,Tech,165,47,7/15/2025 1:40
+87,lotto results,South Africa,DuckDuckGo,IOS,Finance,759,278,7/24/2025 22:22
+88,what is my IP address,Australia,Yahoo,Linux,Tech,382,113,7/12/2025 20:05
+89,how to learn python,India,Ask.com,Android,Entertainment,821,497,7/15/2025 4:12
+90,news headlines today,Israel,Ask.com,Windows,Travel,764,757,7/13/2025 19:21
+91,news headlines today,India,Yahoo,Android,Food,592,408,7/13/2025 14:50
+92,accomadtion to rent or buy,Brazil,DuckDuckGo,Android,Accomadation,620,404,7/6/2025 18:21
+93,sports,Australia,Yahoo,Android,Finance,512,66,7/5/2025 8:36
+94,how to learn python,England,Ask.com,Android,Tech,314,248,7/7/2025 5:47
+95,online games,Germany,Bing,Windows,Food,828,334,7/7/2025 13:34
+96,best movies to watch,Australia,DuckDuckGo,Linux,Tech,745,339,7/7/2025 19:12
+97,online games,United States,Google,IOS,Travel,811,105,7/12/2025 2:06
+98,best movies to watch,China,Bing,Android,Travel,891,174,7/9/2025 14:21
+99,lotto results,Israel,Bing,Windows,Tech,355,224,7/4/2025 22:27
+100,hotels,England,Yahoo,Windows,Accomadation,219,124,7/8/2025 18:42
